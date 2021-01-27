@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ThoughtWorks 西安常年招聘 Java, NodeJS, Android, iOS, UI dev.  
+感兴趣的小伙伴请提交简历给我呀 🥳🥳🥳  
+窝滴邮箱就在头像下方嗷  
+期待可以和你一起共事。  
+
