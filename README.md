@@ -5,6 +5,7 @@ ENTJ
 ### My projects
 __Fun__:
 * [notes-online](https://notes-online.sddtc.florist)
+* xhs-robot (JS) [still WIP so it's private]
 
 ###  I can speak
 * 中文
