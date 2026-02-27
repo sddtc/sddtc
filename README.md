@@ -2,6 +2,7 @@
 
 [![blog](https://img.shields.io/badge/blog-sddtc.florist-9cf?style=flat-square)](https://www.sddtc.florist/)
 [![mbti](https://shields.io/badge/mbti-entj-brightgreen?style=flat-square)](#)
+[![Visits Badge](https://badges.strrl.dev/visits/sddtc/sddtc?style=flat-square)](https://github.com/sddtc)
 
 
 <img align="right" alt="sddtc" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="300px">
