@@ -11,9 +11,9 @@ I'm a full-stack engineer with a strong focus on backend development. With over 
 📗 Latest blog posts  
 
 <!-- BLOG-POST-LIST:START -->
+- [Fastify 模块化项目实战&lpar;二&rpar;](https://www.sddtc.florist/sddtc.github.com/blog/2026-02-26-fastify-modular-monolith-demo/)
 - [Fastify 模块化项目实战&lpar;一&rpar;](https://www.sddtc.florist/sddtc.github.com/blog/2026-02-12-fastify-modules-tutorials-1/)
 - [Something About Javassist](https://www.sddtc.florist/sddtc.github.com/blog/2026-01-07-something-about-javassist/)
 - [SS+Trojan-Qt5+colima 配置docker proxy从而正常下载docker images](https://www.sddtc.florist/sddtc.github.com/blog/2025-08-05-docker-proxy-setup/)
 - [Agent AI: Surveying the Horizons of Multimodal Interaction 读后感](https://www.sddtc.florist/sddtc.github.com/blog/2025-08-01-reaction-to-agent-ai-surveying-the-horizons-of-multimodal-interaction/)
-- [搭建基于websocket的在线多人聊天室](https://www.sddtc.florist/sddtc.github.com/blog/2025-07-24-websocket-chat-room/)
 <!-- BLOG-POST-LIST:END -->
