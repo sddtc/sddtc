@@ -12,9 +12,9 @@ I'm a full-stack engineer with a strong focus on backend development. With over 
 📗 Latest blog posts  
 
 <!-- BLOG-POST-LIST:START -->
+- [品鉴 GitHub Universe 2025 大会](https://www.sddtc.florist/sddtc.github.com/blog/2026-04-14-github-universe-2025/)
 - [Fastify 模块化项目实战 - 你真的懂 tsconfig.json 吗?](https://www.sddtc.florist/sddtc.github.com/blog/2026-03-16-fastify-modular-ts-config-file-intro/)
 - [Fastify 模块化项目实战&lpar;三&rpar; — 使用 prisma](https://www.sddtc.florist/sddtc.github.com/blog/2026-03-04-fastify-modular-db-orm-intro/)
 - [三月番外篇 - 你真的知道多线程在后端服务&lpar;SpringX&rpar;是如何被处理的吗?](https://www.sddtc.florist/sddtc.github.com/blog/2026-03-02-fanwai-multi-threads-travel-in-backend/)
 - [Fastify + TypeScript 中的 typebox](https://www.sddtc.florist/sddtc.github.com/blog/2026-02-28-uses-typebox-in-fastify/)
-- [Fastify 模块化项目实战&lpar;二&rpar; — 初始化Fastify 项目](https://www.sddtc.florist/sddtc.github.com/blog/2026-02-26-fastify-modular-monolith-demo/)
 <!-- BLOG-POST-LIST:END -->
